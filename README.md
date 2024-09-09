@@ -6,7 +6,7 @@ API EN DESARROLLO
 # Delivery-App
 
 API pensada para gestionar el servicio de entrega a domilicio para bares, restaurantes y otros.
-Proyecto que en primer momento estoy realizando, en los raots que el estudio y el trabajo me permiten, para afianzar los concepto y las tecnologias en las que busco desarrollarme.
+Proyecto que en primer momento estoy realizando, en los ratos que el estudio y el trabajo me permiten, para afianzar los concepto y las tecnologias en las que busco desarrollarme.
 
 ## Técnologias empleadas
 ![Static Badge](https://img.shields.io/badge/version_3.3.2-green?style=for-the-badge&logo=springboot&label=Spring%20Boot)
